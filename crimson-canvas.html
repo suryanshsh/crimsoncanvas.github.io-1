@@ -11,18 +11,14 @@
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.musemenu.js", "jquery.watch.js", "jquery.musepolyfill.bgsize.js", "require.js", "webpro.js", "musewpslideshow.js", "jquery.museoverlay.js", "touchswipe.js", "crimson-canvas.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.musemenu.js", "jquery.watch.js", "jquery.musepolyfill.bgsize.js", "webpro.js", "musewpslideshow.js", "jquery.museoverlay.js", "touchswipe.js", "require.js", "crimson-canvas.css"], "outOfDate":[]};
 </script>
   
   <title>Crimson Canvas</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=444006867"/>
-  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=525764429"/>
-  <link rel="stylesheet" type="text/css" href="css/crimson-canvas.css?crc=3850877732" id="pagesheet"/>
-  <!-- IE-only CSS -->
-  <!--[if lt IE 9]>
-  <link rel="stylesheet" type="text/css" href="css/nomq_preview_master_a-master.css?crc=3824530138" id="nomq_pagesheet"/>
-  <![endif]-->
+  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=3854055853"/>
+  <link rel="stylesheet" type="text/css" href="css/crimson-canvas.css?crc=3910229963" id="pagesheet"/>
   <!-- JS includes -->
   <!--[if lt IE 9]>
   <script src="scripts/html5shiv.js?crc=4241844378" type="text/javascript"></script>
@@ -31,21 +27,25 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
  <body>
 
   <div class="clearfix borderbox" id="page"><!-- column -->
-   <div class="browser_width colelem" id="u885-bw">
-    <div id="u885"><!-- group -->
-     <div class="clearfix" id="u885_align_to_page">
-      <nav class="MenuBar clearfix grpelem" id="menuu1131"><!-- horizontal box -->
-       <div class="MenuItemContainer clearfix grpelem" id="u1146"><!-- vertical box -->
-        <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem" id="u1147" href="index.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u1149-4"><!-- content --><p>Home</p></div></a>
+   <div class="browser_width colelem" id="u3734-bw">
+    <div id="u3734"><!-- group -->
+     <div class="clearfix" id="u3734_align_to_page">
+      <nav class="MenuBar clearfix grpelem" id="menuu3738" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- horizontal box -->
+       <div class="MenuItemContainer clearfix grpelem" id="u3739"><!-- vertical box -->
+        <div class="MenuItem MenuItemWithSubMenu clearfix colelem" id="u3740"><!-- horizontal box -->
+         <div class="MenuItemLabel NoWrap clearfix grpelem" id="u3742-4" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content -->
+          <p>Home</p>
+         </div>
+        </div>
        </div>
-       <div class="MenuItemContainer clearfix grpelem" id="u1139"><!-- vertical box -->
-        <a class="nonblock nontext MenuItem MenuItemWithSubMenu MuseMenuActive borderbox clearfix colelem" id="u1140" href="crimson-canvas.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u1143-4"><!-- content --><p>Crimson Canvas</p></div></a>
+       <div class="MenuItemContainer clearfix grpelem" id="u3746"><!-- vertical box -->
+        <a class="nonblock nontext MenuItem MenuItemWithSubMenu MuseMenuActive clearfix colelem" id="u3749" href="crimson-canvas.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u3752-4" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content --><p>Crimson Canvas</p></div></a>
        </div>
-       <div class="MenuItemContainer clearfix grpelem" id="u1132"><!-- vertical box -->
-        <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem" id="u1133" href="canvas-network.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u1136-4"><!-- content --><p>Canvas Network</p></div></a>
+       <div class="MenuItemContainer clearfix grpelem" id="u3783"><!-- vertical box -->
+        <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem" id="u3784" href="canvas-network.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u3787-4" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content --><p>Canvas Network</p></div></a>
        </div>
-       <div class="MenuItemContainer clearfix grpelem" id="u1153"><!-- vertical box -->
-        <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem" id="u1156" href="contact.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u1158-4"><!-- content --><p>Contact</p></div></a>
+       <div class="MenuItemContainer clearfix grpelem" id="u3804"><!-- vertical box -->
+        <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem" id="u3805" href="contact.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u3806-4" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content --><p>Contact</p></div></a>
        </div>
       </nav>
      </div>
@@ -54,71 +54,33 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
    <div class="browser_width colelem" id="u1953-bw">
     <div class="museBGSize" id="u1953"><!-- simple frame --></div>
    </div>
-   <div class="browser_width colelem" id="u1958-bw">
-    <div id="u1958"><!-- group -->
-     <div class="clearfix" id="u1958_align_to_page">
-      <div class="SlideShowWidget clearfix grpelem" id="slideshowu1961" data-visibility="changed" style="visibility:hidden"><!-- none box -->
-       <div class="popup_anchor allow_click_through colelem" data-col-pos="0" id="u1962popup">
-        <div class="SlideShowContentPanel clearfix" data-col-pos="0" id="u1962"><!-- stack box -->
-         <div class="SSSlide clip_frame grpelem" data-col-pos="0" id="u1967"><!-- image -->
-          <img class="block ImageInclude" data-col-pos="0" id="u1967_img" data-src="images/cactus-crop-u1967.jpg?crc=4251701294" src="images/blank.gif?crc=4208392903" alt="" data-heightwidthratio="0.75" data-image-width="480" data-image-height="360"/>
-         </div>
-         <div class="SSSlide invi clip_frame grpelem" data-col-pos="1" id="u1965"><!-- image -->
-          <img class="block ImageInclude" data-col-pos="1" id="u1965_img" data-src="images/road-crop-u1965.jpg?crc=476527209" src="images/blank.gif?crc=4208392903" alt="" data-heightwidthratio="0.75" data-image-width="480" data-image-height="360"/>
-         </div>
-         <div class="SSSlide invi clip_frame grpelem" data-col-pos="2" id="u1963"><!-- image -->
-          <img class="block ImageInclude" data-col-pos="2" id="u1963_img" data-src="images/trees-crop-u1963.jpg?crc=171160773" src="images/blank.gif?crc=4208392903" alt="" data-heightwidthratio="0.75" data-image-width="480" data-image-height="360"/>
-         </div>
-        </div>
-       </div>
-       <div class="clearfix colelem" id="pu1979"><!-- group -->
-        <div class="popup_anchor allow_click_through grpelem" data-col-pos="2" id="u1979popup">
-         <div class="SlideShowCaptionPanel clearfix" data-col-pos="2" id="u1979"><!-- stack box -->
-          <div class="SSSlideCaption clearfix grpelem" data-col-pos="0" id="u1980-4"><!-- content -->
-           <div id="u1980-3">
-            <p>Escapade 18 Manipal</p>
-           </div>
-          </div>
-          <div class="SSSlideCaption invi clearfix grpelem" data-col-pos="1" id="u1982-4"><!-- content -->
-           <div id="u1982-3">
-            <p>Lorem ipsum dolor sit amet.</p>
-           </div>
-          </div>
-          <div class="SSSlideCaption invi clearfix grpelem" data-col-pos="2" id="u1981-4"><!-- content -->
-           <div id="u1981-3">
-            <p>Ut eget felis sed velit congue.</p>
-           </div>
-          </div>
-         </div>
-        </div>
-        <div class="popup_anchor allow_click_through grpelem" data-col-pos="7" id="u1983-4popup">
-         <div class="SSPreviousButton clearfix" data-col-pos="7" id="u1983-4"><!-- content -->
-          <div id="u1983-3">
-           <p>&lt;</p>
-          </div>
-         </div>
-        </div>
-        <div class="popup_anchor allow_click_through grpelem" data-col-pos="6" id="u1986-4popup">
-         <div class="SlideShowLabel SSSlideCount clearfix" data-col-pos="6" id="u1986-4"><!-- content -->
-          <div id="u1986-3">
-           <p><span id="u1986">1 - 3</span></p>
-          </div>
-         </div>
-        </div>
-        <div class="popup_anchor allow_click_through grpelem" data-col-pos="8" id="u1976-4popup">
-         <div class="SSNextButton clearfix" data-col-pos="8" id="u1976-4"><!-- content -->
-          <div id="u1976-3">
-           <p>&gt;</p>
-          </div>
-         </div>
-        </div>
-       </div>
-      </div>
-      <img class="grpelem" id="u2082-25" alt="About CRIMSON CANVAS Crimson Canvas's primary goal is to promote those who may lack the resources to show their talent to an audience but definitely don't lack the talent to be the greatest. We try our best to give these people an audience and a platform to perform. " src="images/u2082-25.png?crc=3915220998" data-image-width="359"/><!-- rasterized frame -->
+   <div class="clearfix colelem" id="pu3617-3"><!-- group -->
+    <div class="browser_width grpelem" id="u3617-3-bw">
+     <div class="clearfix" id="u3617-3"><!-- content -->
+      <p>&nbsp;</p>
      </div>
     </div>
+    <div class="SlideShowWidget clearfix grpelem" id="slideshowu1961" data-visibility="changed" style="visibility:hidden"><!-- none box -->
+     <div class="popup_anchor allow_click_through grpelem" data-col-pos="0" id="u1962popup">
+      <div class="SlideShowContentPanel clearfix" data-col-pos="0" id="u1962"><!-- stack box -->
+       <div class="SSSlide clip_frame grpelem" data-col-pos="0" id="u1967"><!-- image -->
+        <img class="block ImageInclude" data-col-pos="0" id="u1967_img" data-src="images/29572463_1625931734123285_1707384956661463708_n-crop-u1967.jpg?crc=4182941031" src="images/blank.gif?crc=4208392903" alt="" data-heightwidthratio="0.75" data-image-width="480" data-image-height="360"/>
+       </div>
+       <div class="SSSlide invi clip_frame grpelem" data-col-pos="1" id="u3656"><!-- image -->
+        <img class="block ImageInclude" data-col-pos="1" id="u3656_img" data-src="images/29572969_1625932444123214_7177304697664623213_n-crop-u3656.jpg?crc=241061633" src="images/blank.gif?crc=4208392903" alt="" data-heightwidthratio="0.75" data-image-width="480" data-image-height="360"/>
+       </div>
+       <div class="SSSlide invi clip_frame grpelem" data-col-pos="2" id="u3682"><!-- image -->
+        <img class="block ImageInclude" data-col-pos="2" id="u3682_img" data-src="images/29683545_1625931970789928_7983665356743557745_n-crop-u3682.jpg?crc=319593012" src="images/blank.gif?crc=4208392903" alt="" data-heightwidthratio="0.75" data-image-width="480" data-image-height="360"/>
+       </div>
+       <div class="SSSlide invi clip_frame grpelem" data-col-pos="3" id="u3708"><!-- image -->
+        <img class="block ImageInclude" data-col-pos="3" id="u3708_img" data-src="images/preview-crop-u3708.jpg?crc=4158921361" src="images/blank.gif?crc=4208392903" alt="" data-heightwidthratio="0.75" data-image-width="480" data-image-height="360"/>
+       </div>
+      </div>
+     </div>
+    </div>
+    <img class="grpelem" id="u2082-25" alt="About CRIMSON CANVAS Crimson Canvas's primary goal is to promote those who may lack the resources to show their talent to an audience but definitely don't lack the talent to be the greatest. We try our best to give these people an audience and a platform to perform. " src="images/u2082-25.png?crc=3915220998" data-image-width="359"/><!-- rasterized frame -->
    </div>
-   <div class="verticalspacer" data-offset-top="993" data-content-above-spacer="993" data-content-below-spacer="78" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
+   <div class="verticalspacer" data-offset-top="993" data-content-above-spacer="993" data-content-below-spacer="62" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
   </div>
   <!-- Other scripts -->
   <script type="text/javascript">
