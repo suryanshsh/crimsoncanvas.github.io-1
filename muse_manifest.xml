@@ -1,25 +1,26 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="crimsoncanvas.tk" resolutions="1x" timestamp="1527577937822">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="crimsoncanvas.tk" resolutions="1x" timestamp="1527761675443">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="3854055853" ref="contact:canvas-network:index:crimson-canvas"/>
-    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="contact:canvas-network:index:crimson-canvas"/>
-    <file name="contact.css" crc="3946510713" ref="contact"/>
-    <file name="canvas-network.css" crc="4056433504" ref="canvas-network"/>
-    <file name="index.css" crc="3867845543" ref="index"/>
-    <file name="nomq_index.css" crc="3946891645" ref="index"/>
-    <file name="crimson-canvas.css" crc="3910229963" ref="crimson-canvas"/>
+    <file name="master_a-master.css" crc="3758129690" ref="escapade:canvas-network:crimson-canvas:contact:index"/>
+    <file name="nomq_preview_master_a-master.css" crc="30465221" ref="escapade:canvas-network:crimson-canvas:contact:index"/>
+    <file name="escapade.css" crc="462844021" ref="escapade"/>
+    <file name="canvas-network.css" crc="17282268" ref="canvas-network"/>
+    <file name="crimson-canvas.css" crc="31909964" ref="crimson-canvas"/>
+    <file name="contact.css" crc="274749298" ref="contact"/>
+    <file name="index.css" crc="73081679" ref="index"/>
+    <file name="nomq_index.css" crc="4248307529" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:crimson-canvas:canvas-network:contact"/>
-    <file name="museutils.js" crc="340535759" ref="index:crimson-canvas:canvas-network:contact"/>
-    <file name="whatinput.js" crc="86476730" ref="index:crimson-canvas:canvas-network:contact"/>
-    <file name="museconfig.js" crc="310584261" ref="index:crimson-canvas:canvas-network:contact"/>
-    <file name="jquery.musemenu.js" crc="510910590" ref="index:crimson-canvas:canvas-network:contact"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:crimson-canvas:canvas-network:contact"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:crimson-canvas:canvas-network:contact:escapade"/>
+    <file name="museutils.js" crc="340535759" ref="index:crimson-canvas:canvas-network:contact:escapade"/>
+    <file name="whatinput.js" crc="86476730" ref="index:crimson-canvas:canvas-network:contact:escapade"/>
+    <file name="museconfig.js" crc="310584261" ref="index:crimson-canvas:canvas-network:contact:escapade"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:crimson-canvas:canvas-network:contact:escapade"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:crimson-canvas:canvas-network:contact:escapade"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:crimson-canvas"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:crimson-canvas:canvas-network:contact"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:crimson-canvas:canvas-network:contact:escapade"/>
     <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
-    <file name="require.js" crc="7928878" ref="index:crimson-canvas:canvas-network:contact"/>
+    <file name="require.js" crc="7928878" ref="index:crimson-canvas:canvas-network:contact:escapade"/>
     <file name="webpro.js" crc="4059564322" ref="crimson-canvas:contact"/>
     <file name="musewpslideshow.js" crc="3862962738" ref="crimson-canvas"/>
     <file name="jquery.museoverlay.js" crc="4147669564" ref="crimson-canvas"/>
@@ -27,46 +28,65 @@
     <file name="form_check.php" crc="4020933626" ref="contact"/>
     <file name="form_throttle.php" crc="4259590256" ref="contact"/>
     <file name="form_process.php" crc="37464564" ref="contact"/>
-    <file name="form-u2210.php" crc="145654732" ref="contact"/>
+    <file name="form-u2210.php" crc="4166808294" ref="contact"/>
   </folder>
   <folder name="images">
     <file name="capture.jpg" crc="4234738373" ref="index:crimson-canvas:contact">
       <caption webpage="index" alt=""/>
-      <caption webpage="crimson-canvas" alt=""/>
       <caption webpage="contact" alt=""/>
     </file>
-    <file name="crimsonf.jpg" crc="4242008276" ref="index">
+    <file name="escca.jpg" crc="4239101196" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="aybns5o.png" crc="448977530" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="coming soon.jpg" crc="399557341" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
+    <file name="crimsonf.jpg" crc="404227157" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u200-13.png" crc="4122962789" ref="index"/>
+    <file name="kisspng-button-learning-electronic-component-electronics-learn-more-button-5ac3934f4319000449474515227666712748.png" crc="4193630200" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u200-132.png" crc="4122962789" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index:crimson-canvas"/>
-    <file name="loading.gif" crc="3815509949" ref="crimson-canvas"/>
-    <file name="u2082-25.png" crc="3915220998" ref="crimson-canvas"/>
-    <file name="u2206-15.png" crc="492515076" ref="contact"/>
     <file name="29572463_1625931734123285_1707384956661463708_n-crop-u1967.jpg" crc="4182941031" seo="true" ref="crimson-canvas">
       <caption webpage="crimson-canvas" alt=""/>
     </file>
-    <file name="29572969_1625932444123214_7177304697664623213_n-crop-u3656.jpg" crc="241061633" seo="true" ref="crimson-canvas">
+    <file name="29572969_1625932444123214_7177304697664623213_n-crop-u3527.jpg" crc="241061633" seo="true" ref="crimson-canvas">
       <caption webpage="crimson-canvas" alt=""/>
     </file>
-    <file name="29683545_1625931970789928_7983665356743557745_n-crop-u3682.jpg" crc="319593012" seo="true" ref="crimson-canvas">
+    <file name="29683545_1625931970789928_7983665356743557745_n-crop-u3553.jpg" crc="319593012" seo="true" ref="crimson-canvas">
       <caption webpage="crimson-canvas" alt=""/>
     </file>
-    <file name="preview-crop-u3708.jpg" crc="4158921361" seo="true" ref="crimson-canvas">
+    <file name="preview-crop-u3579.jpg" crc="4158921361" seo="true" ref="crimson-canvas">
       <caption webpage="crimson-canvas" alt=""/>
     </file>
-    <file name="escca.jpg" crc="4239101196" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="loading.gif" crc="3815509949" ref="crimson-canvas"/>
+    <file name="u2082-25.png" crc="4000337683" ref="crimson-canvas"/>
+    <file name="u3930-13.png" crc="4223029813" ref="canvas-network"/>
+    <file name="pp (1)-u3933-3-a.png" crc="4049113991" ref="canvas-network"/>
+    <file name="u2206-16.png" crc="3888299937" ref="contact"/>
+    <file name="58485698e0bb315b0f7675a8.png" crc="4272751523" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
     </file>
-    <file name="u3207-13.png" crc="4122962789" ref="index"/>
-    <file name="escca-u3206-fr.jpg" crc="287254855" ref="index"/>
-    <file name="u3207-132.png" crc="4122962789" ref="index"/>
+    <file name="whatsapp image 2018-05-31 at 013135.jpg" crc="390707587" seo="true" ref="escapade">
+      <caption webpage="escapade" alt=""/>
+    </file>
+    <file name="register now icon.jpg" crc="479692537" seo="true" ref="escapade">
+      <caption webpage="escapade" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="331072028" seo="true" mt="1527577906009" redirect="true"/>
-  <file name="crimson-canvas.html" crc="446483322" seo="true" mt="1527577906009" redirect="true"/>
-  <file name="canvas-network.html" crc="466662125" seo="true" mt="1527577906009" redirect="true"/>
-  <file name="contact.html" crc="3760924703" seo="true" mt="1527577906009" redirect="true"/>
+  <file name="index.html" crc="59285114" seo="true" mt="1527761366549" redirect="true"/>
+  <file name="crimson-canvas.html" crc="4152442922" seo="true" mt="1527757509825" redirect="true"/>
+  <file name="canvas-network.html" crc="4091522184" seo="true" mt="1527757483921" redirect="true"/>
+  <file name="contact.html" crc="4257416225" seo="true" mt="1527757483933" redirect="true"/>
+  <file name="escapade.html" crc="24369061" seo="true" mt="1527761647489" redirect="true"/>
 </manifest>

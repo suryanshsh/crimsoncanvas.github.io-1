@@ -2,38 +2,59 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://crimsoncanvas.tk/index.html</loc>
-    <lastmod>2018-05-29</lastmod>
+    <lastmod>2018-05-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://crimsoncanvas.tk/images/aybns5o.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://crimsoncanvas.tk/images/kisspng-button-learning-electronic-component-electronics-learn-more-button-5ac3934f4319000449474515227666712748.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://crimsoncanvas.tk/crimson-canvas.html</loc>
-    <lastmod>2018-05-29</lastmod>
+    <lastmod>2018-05-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://crimsoncanvas.tk/images/29572463_1625931734123285_1707384956661463708_n-crop-u1967.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://crimsoncanvas.tk/images/29572969_1625932444123214_7177304697664623213_n-crop-u3656.jpg</image:loc>
+      <image:loc>http://crimsoncanvas.tk/images/29572969_1625932444123214_7177304697664623213_n-crop-u3527.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://crimsoncanvas.tk/images/29683545_1625931970789928_7983665356743557745_n-crop-u3682.jpg</image:loc>
+      <image:loc>http://crimsoncanvas.tk/images/29683545_1625931970789928_7983665356743557745_n-crop-u3553.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://crimsoncanvas.tk/images/preview-crop-u3708.jpg</image:loc>
+      <image:loc>http://crimsoncanvas.tk/images/preview-crop-u3579.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://crimsoncanvas.tk/canvas-network.html</loc>
-    <lastmod>2018-05-29</lastmod>
+    <lastmod>2018-05-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://crimsoncanvas.tk/contact.html</loc>
-    <lastmod>2018-05-29</lastmod>
+    <lastmod>2018-05-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://crimsoncanvas.tk/images/58485698e0bb315b0f7675a8.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://crimsoncanvas.tk/escapade.html</loc>
+    <lastmod>2018-05-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://crimsoncanvas.tk/images/whatsapp%20image%202018-05-31%20at%20013135.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://crimsoncanvas.tk/images/register%20now%20icon.jpg</image:loc>
+    </image:image>
   </url>
 </urlset>
