@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://crimsoncanvas.tk/index.html</loc>
-    <lastmod>2018-05-31</lastmod>
+    <lastmod>2018-06-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -14,7 +14,7 @@
   </url>
   <url>
     <loc>http://crimsoncanvas.tk/crimson-canvas.html</loc>
-    <lastmod>2018-05-31</lastmod>
+    <lastmod>2018-06-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -32,13 +32,13 @@
   </url>
   <url>
     <loc>http://crimsoncanvas.tk/canvas-network.html</loc>
-    <lastmod>2018-05-31</lastmod>
+    <lastmod>2018-06-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://crimsoncanvas.tk/contact.html</loc>
-    <lastmod>2018-05-31</lastmod>
+    <lastmod>2018-06-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -47,7 +47,7 @@
   </url>
   <url>
     <loc>http://crimsoncanvas.tk/escapade.html</loc>
-    <lastmod>2018-05-31</lastmod>
+    <lastmod>2018-06-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -55,6 +55,45 @@
     </image:image>
     <image:image>
       <image:loc>http://crimsoncanvas.tk/images/register%20now%20icon.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://crimsoncanvas.tk/our-sponsors.html</loc>
+    <lastmod>2018-06-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://crimsoncanvas.tk/images/logo2-crop-u7912.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://crimsoncanvas.tk/images/redfmlogo-crop-u8044.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://crimsoncanvas.tk/images/vlcclogo-crop-u8070.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://crimsoncanvas.tk/images/vlcclogo102x102.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://crimsoncanvas.tk/images/redfmlogo.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://crimsoncanvas.tk/images/logo2137x86.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://crimsoncanvas.tk/images/logo2-crop-u79122.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://crimsoncanvas.tk/images/redfmlogo-crop-u80442.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://crimsoncanvas.tk/images/vlcclogo-crop-u80702.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://crimsoncanvas.tk/images/vlcclogo100x100.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://crimsoncanvas.tk/images/logo2134x84.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
